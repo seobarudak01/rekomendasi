@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "rekomendasi",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "cf6b2b30-8d97-487a-b6be-b4dd05faa4e2",
+			"database_name": "rekomendasi"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
